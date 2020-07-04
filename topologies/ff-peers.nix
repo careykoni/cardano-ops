@@ -1206,4 +1206,14 @@
     addr = "relay.cardanians.io";
     port = 3001;
   }
+  {
+    operator = "Creaky Ion";
+    addr = "3.10.176.25";
+    port = 3001;
+  }
+  {
+    operator = "Creaky Ion";
+    addr = "3.10.176.25";
+    port = 3002;
+  }
 ]
